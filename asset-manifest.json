@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/apps/static/css/main.9951e5c2.css",
+    "main.js": "/apps/static/js/main.b4dacf34.js",
+    "static/media/japanese-hours.png": "/apps/static/media/japanese-hours.4e0482dbb1a332503393.png",
+    "static/media/katakana.png": "/apps/static/media/katakana.8369d8049e9e822d1b3c.png",
+    "static/media/copybook.jpg": "/apps/static/media/copybook.ead5b149c82d97ca1ba2.jpg",
+    "static/media/kana-u.gif": "/apps/static/media/kana-u.f6bd224e978ef5c5914f.gif",
+    "static/media/kana-e.gif": "/apps/static/media/kana-e.463f43beb15783490445.gif",
+    "static/media/katakana-a.gif": "/apps/static/media/katakana-a.29c07fdfd6819068c537.gif",
+    "static/media/kana-i.gif": "/apps/static/media/kana-i.a6576e7752962e805dba.gif",
+    "static/media/hirogana.jpeg": "/apps/static/media/hirogana.7068f9399690da5a7c49.jpeg",
+    "index.html": "/apps/index.html",
+    "main.9951e5c2.css.map": "/apps/static/css/main.9951e5c2.css.map",
+    "main.b4dacf34.js.map": "/apps/static/js/main.b4dacf34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9951e5c2.css",
+    "static/js/main.b4dacf34.js"
+  ]
+}
